@@ -126,7 +126,7 @@ Detected Text:
 
 Generated Braille File:
 
-![Braille Output](demo/braille_output.jpg)
+![Braille Output](demo/braille_output.png)
 
 
 ## Writing Mode — Speech to Braille
