@@ -103,11 +103,11 @@ Capabilities:
 
 Example Input:
 
-![Objects Presented](demo/sample_objects.jpg)
+![Objects Presented](demo/sample_objects.png)
 
 Detection Output:
 
-![Object Detection](demo/object_detection_output.jpg)
+![Object Detection](demo/object_detection_output.png)
 
 ## Reading Mode — Text Recognition
 
@@ -118,11 +118,11 @@ Printed Text → OCR Detection → Audio Output → Braille Conversion
 
 Input Example:
 
-![Book Input](demo/sample_text_input.jpg)
+![Book Input](demo/sample_text_input.png)
 
 Detected Text:
 
-![OCR Output](demo/ocr_detected_text.jpg)
+![OCR Output](demo/ocr_detected_text.png)
 
 Generated Braille File:
 
@@ -139,18 +139,18 @@ Speech Audio → Speech-to-Text → Braille Encoding → File Storage
 
 Audio Input:
 
-![Audio Upload](demo/audio_upload.jpg)
+![Audio Upload](demo/audio_upload.png)
 
 Generated Braille Output:
 
-![Speech to Braille](demo/speech_to_braille_output.jpg)
+![Speech to Braille](demo/speech_to_braille_output.png)
 
 
 ## Hardware Prototype
 
 Final wearable prototype developed for the project:
 
-![Smart Glass Prototype](demo/device_prototype.jpg)
+![Smart Glass Prototype](demo/device_prototype.png)
 
 The device integrates the camera, sensors, and processing unit directly into the glasses frame for portable usage.
 
